@@ -1,0 +1,22 @@
+Dataset: cars-data.csv
+
+1. Distribution by mpg
+
+2. Distribution by gears
+
+3. Distribution by gears & am
+
+5. Relationship between weight & mpg
+
+6. Relationship between weight & mpg differentiated by cyl
+
+7. Relationship between weight & mpg differentiated by gear
+
+8. Boxplot gear & mpg
+
+9. Total TradeValue for each sector 
+
+10. ClosePrice for any 5 Securities
+
+11. HighPrice & LowPrice for any one Security
+

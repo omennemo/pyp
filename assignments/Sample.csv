@@ -1,0 +1,101 @@
+ID,Name,Race,Gender,Smokes,HeightInCms,WeightInKgs,BirthDate,State,Pet,HealthGrade,Died,RecordDate,BodyMassIndex,BMILabel
+AC/AH/001,"Demetr,ius",White,Male,No,182.87,76.57,1972-01-31,Georgia,Dog,Normal,False,2015-11-25,22.896743411166042,Normal
+AC/AH/017,Rosario,White,Male,No,179.12,80.43,1972-06-09,Missouri,Dog,Normal,False,2015-11-25,25.068590006105975,Overweight
+AC/AH/020,Julio,Black,Male,No,169.15,75.48,1972-07-03,Pennsylvania,,Normal,False,2015-11-25,26.38079549387493,Overweight
+AC/AH/022,Lupe,White,Male,No,175.66,94.54,1972-08-11,Florida,Cat,Good Health,False,2015-11-25,30.638665212517292,Obese
+AC/AH/029,Lavern,White,Female,No,164.47,71.78,1973-06-06,Iowa,,Normal,True,2015-11-25,26.535670704733036,Overweight
+AC/AH/033,Bernie,Unknown,Female,Yes,158.27,69.9,1973-06-25,Maryland,Dog,Normal,False,2015-11-25,27.904867906000234,Overweight
+AC/AH/037,Samuel,White,Female,No,161.69,68.85,1972-03-20,Pennsylvania,,Good Health,False,2015-11-25,26.335260736542505,Overweight
+AC/AH/044,Clair,White,Female,No,165.84,70.44,1973-05-05,North Carolina,,Good Health,False,2015-11-25,25.61183935416627,Overweight
+AC/AH/045,Shirley,White,Male,No,181.32,76.9,1971-12-25,Louisiana,Dog,Good Health,False,2015-11-25,23.390252981676305,Normal
+AC/AH/048,Merle,Hispanic,Male,No,167.37,79.06,1973-07-13,North Carolina,,Normal,False,2015-12-25,28.222896151854517,Overweight
+AC/AH/049,Martin,White,Female,No,160.06,72.37,1972-04-28,California,Horse,Normal,True,2015-12-25,28.248341021810685,Overweight
+AC/AH/050,Frances,White,Female,No,166.48,67.34,1971-11-08,Michigan,,Good Health,False,2015-12-25,24.296794341425976,Normal
+AC/AH/052,Courtney,White,Male,Yes,175.39,92.22,1972-03-16,Indiana,Bird,Bad Health,False,2015-12-25,29.978884001487042,Overweight
+AC/AH/053,Francis,White,Female,Yes,164.7,75.69,1971-11-16,Virginia,Dog,Good Health,False,2015-12-25,27.90302620097479,Overweight
+AC/AH/057,Vernon,White,Female,Yes,163.79,65.76,1972-01-06,Illinois,Cat,Bad Health,False,2015-12-25,24.51246794289375,Normal
+AC/AH/061,Lester,Black,Male,No,181.13,72.33,1972-11-16,Wisconsin,Dog,,True,2015-12-25,22.046400409406505,Normal
+AC/AH/063,Robin,Hispanic,Male,No,169.24,73.3,1971-11-16,Illinois,,Bad Health,False,2015-12-25,25.591629597325028,Overweight
+AC/AH/076,Albert,White,Male,No,176.22,97.67,1973-04-08,Louisiana,Cat,Normal,False,2015-12-25,31.45218300176543,Obese
+AC/AH/077,Tommy,Black,Male,No,174.09,72.2,1973-02-01,Washington,Cat,Bad Health,False,2015-12-25,23.822621301941822,Normal
+AC/AH/086,Kyle,Black,Male,Yes,180.11,75.72,1973-05-12,Georgia,Cat,Bad Health,False,2015-12-25,23.34183274651425,Normal
+AC/AH/089,Dong,White,Male,No,179.24,75.54,1972-03-11,California,,Normal,True,2015-12-25,23.512949440970758,Normal
+AC/AH/100,Michel,White,Female,No,161.92,69.92,1972-12-27,Georgia,Dog,Good Health,False,2015-12-25,26.668613007545815,Overweight
+AC/AH/104,Jeremy,White,Male,Yes,169.85,90.63,1972-04-12,Kentucky,,Good Health,True,2015-12-25,31.415275855533757,Obese
+AC/AH/112,Pat,Black,Female,No,160.57,63.54,1973-06-26,California,,,True,2016-01-25,24.644408318532694,Normal
+AC/AH/113,Eugene,White,Female,No,168.24,69.57,1972-02-07,Massachusetts,,Normal,False,2016-01-25,24.578958935777493,Normal
+AC/AH/114,Kris,Hispanic,Male,No,177.75,74.84,1972-11-19,Pennsylvania,Bird,Bad Health,False,2016-01-25,23.687245435896827,Normal
+AC/AH/115,Tracy,Bi-Racial,Male,Yes,183.21,83.36,1973-09-29,California,Dog,Normal,False,2016-01-25,24.83472506852571,Normal
+AC/AH/127,Jame,White,Male,No,167.75,82.06,1972-10-29,Texas,Dog,Good Health,True,2016-01-25,29.161271407979285,Overweight
+AC/AH/133,Clyde,Hispanic,Male,No,181.15,83.93,1973-10-13,Washington,Cat,Bad Health,True,2016-02-25,25.576466603367983,Overweight
+AC/AH/150,Brett,White,Male,Yes,181.56,79.54,1972-05-03,Kentucky,Dog,Good Health,True,2016-02-25,24.12932863895637,Normal
+AC/AH/154,Tony,White,Female,No,160.03,64.3,1973-08-30,California,Dog,Good Health,True,2016-02-25,25.107771203103752,Overweight
+AC/AH/156,George,White,Male,No,165.62,76.72,1972-07-09,California,Dog,Good Health,True,2016-02-25,27.969392501732514,Overweight
+AC/AH/159,Edward,White,Male,No,181.64,96.91,1972-12-04,Connecticut,Cat,Normal,False,2016-02-25,29.3728175126709,Overweight
+AC/AH/160,Rory,Asian,Female,No,159.67,71.88,1973-09-22,Florida,Cat,Normal,True,2016-02-25,28.194306578700175,Overweight
+AC/AH/164,Shane,Hispanic,Male,Yes,177.03,74.04,1972-02-18,Florida,,Normal,False,2016-02-25,23.625046466340635,Normal
+AC/AH/171,Devin,White,Female,No,163.35,70.46,1973-04-16,California,Bird,Bad Health,True,2016-03-25,26.406105934168934,Overweight
+AC/AH/176,Jerry,Asian,Male,No,175.21,83.65,1973-05-01,Virginia,Dog,Bad Health,True,2016-03-25,27.24884923777216,Overweight
+AC/AH/180,Drew,White,Female,No,160.8,64.77,1973-02-18,Oregon,Cat,Good Health,True,2016-03-25,25.04965842429642,Overweight
+AC/AH/185,Ronald,White,Male,No,166.46,76.83,1972-08-17,Colorado,,,True,2016-03-25,27.727521619779807,Overweight
+AC/AH/186,Christopher,White,Female,No,157.95,67.41,1972-05-06,New Jersey,Dog,Bad Health,True,2016-03-25,27.019982702160608,Overweight
+AC/AH/192,Dominique,White,Male,No,180.61,83.59,1972-03-24,Michigan,,Bad Health,True,2016-03-25,25.62540511798905,Overweight
+AC/AH/198,Van,White,Female,No,159.52,67.99,1972-12-02,Missouri,Cat,Normal,False,2016-03-25,26.718665273654455,Overweight
+AC/AH/207,Bobbie,White,Female,No,163.01,65.19,1973-05-17,Florida,Dog,Normal,False,2016-03-25,24.533103226699186,Normal
+AC/AH/208,Lawrence,Hispanic,Female,No,165.8,71.77,1973-08-07,Louisiana,,Good Health,False,2016-03-25,26.10801742038091,Overweight
+AC/AH/210,Keith,Hispanic,Female,Yes,170.03,66.68,1972-08-28,New York,Dog,,False,2016-03-25,23.064523221628672,Normal
+AC/AH/211,Son,White,Female,No,157.16,69.64,1973-07-14,California,Cat,Normal,True,2016-04-25,28.195170304982675,Overweight
+AC/AH/213,Charlie,White,Female,Yes,164.58,72.99,1972-01-25,Louisiana,Dog,Good Health,False,2016-04-25,26.94692711331358,Overweight
+AC/AH/219,Jay,White,Female,No,163.47,72.89,1972-04-07,North Carolina,Bird,Good Health,True,2016-04-25,27.276699861650737,Overweight
+AC/AH/220,Richard,White,Male,No,185.43,87.23,1973-07-13,Florida,Cat,Good Health,False,2016-04-25,25.36914763639595,Overweight
+AC/AH/221,Carlos,White,Female,No,165.34,70.84,1972-02-01,Michigan,Dog,,True,2016-04-25,25.913297792852788,Overweight
+AC/AH/225,Gail,White,Female,No,163.45,67.67,1972-10-21,Michigan,Cat,Normal,False,2016-04-25,25.329483067248063,Overweight
+AC/AH/233,Marion,White,Female,No,163.97,66.71,1971-12-23,Ohio,Cat,Bad Health,True,2016-04-25,24.812021414332904,Normal
+AC/AH/241,Lindsay,White,Female,No,161.38,73.55,1972-02-08,Florida,Cat,Bad Health,False,2016-05-25,28.241207047389523,Overweight
+AC/AH/244,Sean,White,Female,No,160.09,65.93,1973-01-25,Maryland,,,True,2016-05-25,25.724957533237767,Overweight
+AC/AH/248,Andrea,White,Male,No,178.64,97.05,1973-01-12,Indiana,Cat,Good Health,True,2016-05-25,30.41151946868704,Obese
+AC/AH/249,Jesus,Hispanic,Female,Yes,159.78,68.31,1972-04-23,Alabama,Cat,Normal,True,2016-05-25,26.757125256766166,Overweight
+AC/SG/002,Jan,White,Female,Yes,161.57,67.92,1973-07-03,Arizona,Dog,Bad Health,False,2016-05-25,26.01813886422374,Overweight
+AC/SG/003,Walter,White,Female,No,161.83,66.03,1972-07-11,Oregon,,Normal,True,2016-05-25,25.21292483028977,Overweight
+AC/SG/008,Dana,White,Male,Yes,169.66,77.3,1973-05-26,Nevada,Dog,Good Health,True,2016-05-25,26.85471629058785,Overweight
+AC/SG/009,Sammy,White,Male,No,166.84,88.25,1972-03-04,Vermont,Dog,Good Health,False,2016-06-25,31.704021344533878,Obese
+AC/SG/010,Theo,Asian,Female,No,159.32,64.92,1973-01-29,New York,Cat,Normal,True,2016-06-25,25.576311677125904,Overweight
+AC/SG/015,Shaun,White,Male,Yes,170.51,84.35,1972-11-09,New Jersey,Dog,Bad Health,True,2016-06-25,29.01251500838727,Overweight
+AC/SG/016,Jimmie,Black,Female,No,161.84,69.97,1972-04-03,Arizona,Cat,Bad Health,True,2016-06-25,26.714074597883116,Overweight
+AC/SG/046,Carl,Hispanic,Male,No,171.41,81.7,1973-08-05,Mississippi,Bird,Normal,True,2016-06-25,27.806718907198263,Overweight
+AC/SG/055,Evan,White,Male,No,166.75,79.06,1972-02-24,Illinois,Bird,Bad Health,True,2016-07-25,28.43315973197809,Overweight
+AC/SG/056,Merrill,Asian,Female,Yes,166.19,67.46,1972-11-27,Indiana,,Bad Health,True,2016-07-25,24.42511185214939,Normal
+AC/SG/064,Jon,White,Male,No,169.16,90.08,1972-10-04,Illinois,Cat,Normal,True,2016-07-25,31.479876838196954,Obese
+AC/SG/065,Shayne,White,Female,No,157.01,66.56,1972-04-05,California,Dog,Bad Health,True,2016-07-25,26.999684299214255,Overweight
+AC/SG/067,Thomas,White,Male,No,167.51,84.15,1972-07-19,Pennsylvania,Bird,Normal,True,2016-07-25,29.98973602620945,Overweight
+AC/SG/068,Valentine,Hispanic,Female,No,160.47,68.2,1972-04-15,Tennessee,Cat,Bad Health,True,2016-07-25,26.484798275291297,Overweight
+AC/SG/072,Cameron,Black,Female,Yes,162.33,66.47,1972-02-15,California,,Bad Health,False,2016-07-25,25.224821486951495,Overweight
+AC/SG/074,Eddie,Hispanic,Male,No,175.67,88.82,1973-10-04,Georgia,,,False,2016-07-25,28.781641955343613,Overweight
+AC/SG/084,Brian,Hispanic,Male,No,174.25,80.93,1972-03-06,Virginia,Dog,Normal,True,2016-07-25,26.654096568816144,Overweight
+AC/SG/095,Matthew,White,Female,No,158.94,65.14,1973-05-26,Hawaii,Dog,Good Health,False,2016-07-25,25.78584316516578,Overweight
+AC/SG/099,Leslie,Asian,Male,No,172.72,67.62,1972-02-04,Ohio,Cat,Good Health,False,2016-07-25,22.666784087893436,Normal
+AC/SG/101,Jason,White,Female,No,159.23,69.96,1973-09-28,Michigan,Dog,Normal,True,2016-07-25,27.593069231558935,Overweight
+AC/SG/107,Sol,White,Male,No,176.54,90.76,1973-01-28,Hawaii,,Bad Health,False,2016-08-25,29.121131315780122,Overweight
+AC/SG/116,Connie,Black,Male,No,184.34,90.41,1972-06-05,Florida,,Bad Health,True,2016-08-25,26.605860088265892,Overweight
+AC/SG/121,Rudy,White,Female,No,163.94,71.47,1973-03-12,Michigan,Cat,Bad Health,False,2016-08-25,26.592178701107766,Overweight
+AC/SG/122,Michal,Hispanic,Female,No,160.09,68.94,1971-12-16,South Carolina,Dog,Good Health,False,2016-08-25,26.899417144568655,Overweight
+AC/SG/123,Darnell,White,Female,Yes,162.32,72.72,1972-09-03,North Carolina,Bird,Good Health,True,2016-08-25,27.6000457632442,Overweight
+AC/SG/134,Daryl,White,Female,Yes,162.59,69.76,1972-05-28,Texas,Cat,Normal,True,2016-08-25,26.38874945626636,Overweight
+AC/SG/139,Jordan,White,Male,No,171.94,82.11,1973-10-06,Michigan,,Good Health,False,2016-08-25,27.774241493955035,Overweight
+AC/SG/142,Kenneth,White,Female,No,158.07,69.8,1972-05-15,Kansas,Dog,Bad Health,False,2016-08-25,27.935504316637747,Overweight
+AC/SG/155,Raymond,White,Female,No,158.35,69.72,1972-06-02,California,Cat,Bad Health,True,2016-08-25,27.804893952465477,Overweight
+AC/SG/165,Elmer,White,Female,No,162.18,67.81,1972-03-25,Washington,Bird,Good Health,True,2016-08-25,25.780963987084284,Overweight
+AC/SG/167,Jimmy,White,Female,No,159.38,70.37,1973-09-30,Washington,,Normal,True,2016-09-25,27.702560119673176,Overweight
+AC/SG/172,Whitney,White,Male,No,171.45,84.29,1972-02-25,Florida,Dog,Normal,True,2016-09-25,28.67484472966203,Overweight
+AC/SG/173,Britt,White,Female,Yes,163.17,64.47,1973-06-19,California,,Normal,False,2016-09-25,24.214585714861503,Normal
+AC/SG/179,Logan,White,Male,No,183.1,82.47,1972-10-24,Ohio,Dog,Bad Health,True,2016-09-25,24.599104982728132,Normal
+AC/SG/181,Terry,Hispanic,Male,No,177.14,88.7,1971-11-24,Indiana,Cat,Bad Health,True,2016-09-25,28.267691250116375,Overweight
+AC/SG/182,Jamie,Hispanic,Male,Yes,171.08,72.51,1973-03-25,Louisiana,,Bad Health,True,2016-09-25,24.774187602079493,Normal
+AC/SG/191,Lacy,Hispanic,Female,No,159.33,70.68,1973-06-21,Texas,,Bad Health,True,2016-09-25,27.8420640716563,Overweight
+AC/SG/193,Ronnie,White,Male,Yes,185.43,73.63,1973-06-05,Iowa,Dog,Bad Health,False,2016-09-25,21.413852349740154,Normal
+AC/SG/194,Joseph,White,Female,No,162.65,73.99,1972-08-04,Maryland,Cat,Bad Health,False,2016-10-25,27.96822418124951,Overweight
+AC/SG/197,Stacy,White,Female,No,159.44,66.21,1972-11-08,New York,Cat,Good Health,True,2016-10-25,26.045279149376046,Overweight
+AC/SG/204,Anthony,White,Female,No,164.11,70.66,1972-06-17,California,Dog,Bad Health,False,2016-10-25,26.236357627783388,Overweight
+AC/SG/216,Alva,White,Female,No,159.13,66.96,1972-06-19,Alabama,,Good Health,True,2016-10-25,26.443036193048837,Overweight
+AC/SG/217,Dean,White,Female,No,160.58,71.49,1972-11-11,Ohio,,Good Health,True,2016-10-25,27.724414925649157,Overweight
+AC/SG/234,Luis,Hispanic,Female,No,164.88,68.07,1971-11-10,Pennsylvania,Cat,Bad Health,True,2016-10-25,25.039162176611878,Overweight
